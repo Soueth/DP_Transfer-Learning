@@ -2,6 +2,8 @@
 
 O desafio consiste em, a partir de uma base montada por si, treinar um modelo em duas situações: do zero e a partir de um modelo pré-treinado, VGG no caso do desafio. A partir dos resultados, são verificados os benefícios do tranfer-learning.
 
+Link do cógigo no Colab: https://colab.research.google.com/drive/1YNvQ152ImEpEHj-IR4WaQtWFqXJUJog9#scrollTo=6hKYWy0Lm2Ew
+
 ## Base utilizada
 
 A base utilizada consiste de duas classes: cartas de Yu-gi-oh e cartas de Pokemon
