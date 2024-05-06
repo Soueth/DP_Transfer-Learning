@@ -1,6 +1,6 @@
-### Desafio de Projeto - Fazendo o primeiro Transfer-Learning 💿
+# Desafio de Projeto - Fazendo o primeiro Transfer-Learning 💿
 
-O desafio consiste em, a partir de uma base montada por si, treinar um modelo em duas situações: do zero e a partir de um modelo pré-treinado, VGG no caso do desafio. A partir dos resultados, são verificados os benefícios do tranfer-learning.
+### O desafio consiste em, a partir de uma base montada por si, treinar um modelo em duas situações: do zero e a partir de um modelo pré-treinado, VGG no caso do desafio. A partir dos resultados, são verificados os benefícios do tranfer-learning.
 
 ## Base utilizada
 
